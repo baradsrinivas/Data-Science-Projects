@@ -29,16 +29,16 @@ Qualitative measures have been quantified in 2 ways:
 
                                                 **Following tasks have been performed in python file.**
 
-1. Understanding of data - includes basic check of quality of data and columns to understand key variables or important columns.
+**1. Understanding of data** - includes basic check of quality of data and columns to understand key variables or important columns.
  Understanding of how the hospital rating is distributed etc..
 
-2. Built Machine Learning Models by applying some key steps before building the models. 
-       - Logistic regression
-       - Decision Tree Classification
-       - Knn Classification
-       - Hyper parameter tuning using GridSearh CV
-       - Built Neural Network
-       - calculated the misclassification costs post model performances.
+**2. Built Machine Learning Models by applying some key steps before building the models.** 
+       **- Logistic regression**
+       **- Decision Tree Classification**
+       **- Knn Classification**
+       **- Hyper parameter tuning using GridSearh CV**
+       **- Built Neural Network**
+       **- calculated the misclassification costs post model performances.**
      
    
 
