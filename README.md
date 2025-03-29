@@ -33,12 +33,13 @@ Qualitative measures have been quantified in 2 ways:
  Understanding of how the hospital rating is distributed etc..
 
 **2. Built Machine Learning Models by applying some key steps before building the models.** 
-       - Logistic regression**
-       - Decision Tree Classification**
-       - Knn Classification**
-       - Hyper parameter tuning using GridSearh CV**
-       - Built Neural Network**
-       - calculated the misclassification costs post model performances.**
+
+       **- Logistic regression**
+       **- Decision Tree Classification**
+       **- Knn Classification**
+       **- Hyper parameter tuning using GridSearh CV**
+       **- Built Neural Network**
+       **- calculated the misclassification costs post model performances.**
      
    
 
