@@ -27,7 +27,7 @@ Qualitative measures have been quantified in 2 ways:
    - measure national comparison
    - Sub measure level information
 
-                                                **Following tasks have been performed in python file.**
+     **Following tasks have been performed in python file.**
 
 **1. Understanding of data** - includes basic check of quality of data and columns to understand key variables or important columns.
  Understanding of how the hospital rating is distributed etc..
